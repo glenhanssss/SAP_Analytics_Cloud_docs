@@ -1,6 +1,6 @@
 # SAP_Analytics_Cloud
 
-this repository is a writer s documentation for Scripting in SAP Analytics Cloud and other stuff in SAP Analytics Cloud
+this repository is a writer s documentation for Scripting and other stuff in SAP Analytics Cloud
 
 ## Scripting:
 - Language: Javascript
