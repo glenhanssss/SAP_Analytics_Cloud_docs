@@ -2,6 +2,9 @@
 
 this repository is a writer s documentation for Scripting and other stuff in SAP Analytics Cloud
 
+## Apps:
+https://sactrial-sacap10-rub4qy3ervezdy34zis1l7bm.ap10.hcs.cloud.sap/sap/fpa/ui/app.html#/home
+
 ## Scripting:
 - Language: Javascript
 - Styling: CSS
