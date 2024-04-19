@@ -17,6 +17,7 @@ https://sactrial-sacap10-rub4qy3ervezdy34zis1l7bm.ap10.hcs.cloud.sap/sap/fpa/ui/
 - https://github.com/ssurampally/Analytics-cloud for scripting
 - https://developers.sap.com/tutorials/sac-analytics-designer-intro-3-familiar.html#5feb77e0-22cf-4037-aaec-0729fc9c5eea
 - https://learning.sap.com/learning-journeys/acquiring-basic-scripting-skills-to-extend-stories-in-sap-analytics-cloud/working-in-the-sap-analytics-cloud-script-editor_ef4b7943-9982-471a-9b65-fe2684fabf81
+- ai architecture : https://community.sap.com/t5/technology-blogs-by-sap/classification-in-sap-analytics-cloud-in-detail/ba-p/13441738
 
 ## Vids source
 - https://ibm-learning.udemy.com/course/sap-fundamental-step-by-step-sap/learn/lecture/40541413#overview
