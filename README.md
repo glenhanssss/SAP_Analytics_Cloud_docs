@@ -30,4 +30,5 @@ https://sactrial-sacap10-rub4qy3ervezdy34zis1l7bm.ap10.hcs.cloud.sap/sap/fpa/ui/
 ## other
 - picture: https://www.ibm.com/brand/
 - eclipse docs installer : https://developers.sap.com/tutorials/abap-install-adt.html
+- SAC certification Data Analyst: https://learning.sap.com/certifications/sap-certified-associate-data-analyst-sap-analytics-cloud
 - 
