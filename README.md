@@ -27,6 +27,7 @@ https://sactrial-sacap10-rub4qy3ervezdy34zis1l7bm.ap10.hcs.cloud.sap/
 - https://ibm-learning.udemy.com/course/sap-analytics-cloud-master-class/learn/lecture/26026482#overview
 - https://www.youtube.com/watch?v=hbspGhQfKXo
 - https://www.youtube.com/watch?v=kw8KU_nFIdQ&list=PLlvWuqwG9LyFiDQmswTWnPx6SMxAzr4kg
+- SAP Products & Services: https://youtube.com/@sapproductsandservices
 
 ## other
 - picture: https://www.ibm.com/brand/
