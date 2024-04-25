@@ -1,9 +1,9 @@
 # SAP_Analytics_Cloud
 
-this repository is a writer s documentation for Scripting and other stuff in SAP Analytics Cloud
+this repo is a writers documentation for Scripting and other stuff in SAP Analytics Cloud (SAC)
 
 ## Apps:
-https://sactrial-sacap10-rub4qy3ervezdy34zis1l7bm.ap10.hcs.cloud.sap/sap/fpa/ui/app.html#/home
+https://sactrial-sacap10-rub4qy3ervezdy34zis1l7bm.ap10.hcs.cloud.sap/
 
 ## Scripting:
 - Language: Javascript
@@ -19,8 +19,9 @@ https://sactrial-sacap10-rub4qy3ervezdy34zis1l7bm.ap10.hcs.cloud.sap/sap/fpa/ui/
 - learning SAP_SAC: https://learning.sap.com/learning-journeys/acquiring-basic-scripting-skills-to-extend-stories-in-sap-analytics-cloud/working-in-the-sap-analytics-cloud-script-editor_ef4b7943-9982-471a-9b65-fe2684fabf81
 - SAP learning hub: https://learninghub.sap.com/
 - ai architecture : https://community.sap.com/t5/technology-blogs-by-sap/classification-in-sap-analytics-cloud-in-detail/ba-p/13441738
+- CDS standard guider https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/ee6ff9b281d8448f96b4fe6c89f2bdc8/8573b810511948c8a99c0672abc159aa.html
 
-## Vids source
+## Vids source (Learning)
 - https://ibm-learning.udemy.com/course/sap-fundamental-step-by-step-sap/learn/lecture/40541413#overview
 - https://ibm-learning.udemy.com/course/sap-analytics-cloud-sac/learn/lecture/24963576#overview
 - https://ibm-learning.udemy.com/course/sap-analytics-cloud-master-class/learn/lecture/26026482#overview
