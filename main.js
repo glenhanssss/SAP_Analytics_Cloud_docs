@@ -2,7 +2,7 @@
 Chart_name.setVisible(false);
 Table_name.setVisible(true); 
 widget_name.setVisible(false);
-
+ 
 //2 set filter
 
 // we always access Datasource through Widgets only not as standlone datasoure.
