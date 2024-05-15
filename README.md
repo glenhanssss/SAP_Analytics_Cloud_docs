@@ -20,6 +20,7 @@ https://sactrial-sacap10-rub4qy3ervezdy34zis1l7bm.ap10.hcs.cloud.sap/
 - SAP learning hub: https://learninghub.sap.com/
 - ai architecture : https://community.sap.com/t5/technology-blogs-by-sap/classification-in-sap-analytics-cloud-in-detail/ba-p/13441738
 - CDS standard guider https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/ee6ff9b281d8448f96b4fe6c89f2bdc8/8573b810511948c8a99c0672abc159aa.html
+- Develop analytical queries from ABAP system as data sources and consume them in the SAP Analytics Cloud to create analytical models, stories and multi-dimensional reports : https://developers.sap.com/tutorials/abap-environment-analytics.html#0221f4a9-3518-47ba-8fd1-519ca25401b7
 
 ## Vids source (Learning)
 - https://ibm-learning.udemy.com/course/sap-fundamental-step-by-step-sap/learn/lecture/40541413#overview
