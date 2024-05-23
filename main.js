@@ -43,7 +43,7 @@ if (ShowTable === false) {
   Chart_2.setVisible(true);
   ShowTable = false;
 }
-
+ 
 //
 
 //
