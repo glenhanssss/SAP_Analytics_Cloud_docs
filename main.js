@@ -5,7 +5,7 @@ widget_name.setVisible(false);
 
 //2 set filter
 
-// we always access Datasource through Widgets only not as standlone datasoure.
+// we always access Datasource through Widgets only not as standlone datasoure. 
 
 // setting a filter on Table dimension
 Table_name.getDataSource().setDimensionFilter("movie_genres", "Action");
