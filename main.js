@@ -1,6 +1,6 @@
 //1 how to set an widget visible
 Chart_name.setVisible(false);
-Table_name.setVisible(true); 
+Table_name.setVisible(true);
 widget_name.setVisible(false);
 
 //2 set filter
